@@ -1,5 +1,5 @@
 {
-    "server": "https://org-gitesh-recognitions.aem-screens.com",
+    "server": "<player-server-url>",
     "registrationKey": "",
     "resolution": "auto",
     "rebootSchedule": "at 4:00 am",
@@ -12,8 +12,8 @@
     "enableAutoScreenshot": false,
     "enableAdvancedPlaybackMonitoring": false,
     "cloudMode": true,
-    "cloudUrl": "https://288650-869emeraldcapybara.adobeioruntime.net",
-    "cloudToken": "5tqw-4fsq-yv9o",
+    "cloudUrl": "<namespace-url>",
+    "cloudToken": "<reg-code>",
     "enableDeveloperMode": true
   }
   
